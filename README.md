@@ -2,6 +2,8 @@
 
 > Une application web qui permet de rechercher des cocktails, de les mettre en favoris et de voir les détails de recette de chaque cocktail.
 
+![Thumbnail](https://github.com/NathanJourdain/cocktail-explorer/blob/main/assets/thumbnail.png?raw=true)
+
 ## Langages utilisés
 - HTML / CSS / JS pour l'interface
 - PHP pour le backend
