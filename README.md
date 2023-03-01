@@ -8,6 +8,9 @@
 - The CocktalDB API pour les données
 - GSAP pour l'animation du logo
 
+## API
+- The CocktailDB API : https://www.thecocktaildb.com/api.php
+
 ## Fonctionnalités
 - Recherche de cocktails par nom
 - Ajout de cocktails en favoris

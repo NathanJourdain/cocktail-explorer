@@ -25,6 +25,7 @@ for ($i = 0; $i < 3; $i++) {
 
     <!-- Balise meta -->
     <meta name="description" content="Welcome to Cocktail Explorer, the ultimate online resource for cocktail and beverage enthusiasts. Our website offers a multitude of recipes, tips, and inspiration to help you explore new flavor combinations.">
+    <meta name="og:image" content="assets/thumbnail.png">
 
     <!-- Fontawesome -->
     <script src="https://kit.fontawesome.com/ff241dcdf7.js" crossorigin="anonymous"></script>
